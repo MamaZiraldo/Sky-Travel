@@ -1,5 +1,5 @@
 ShipName,ShipSpeed,CargoSpace,CabinSpace,CrewRequired,ShipCost
-Skippy,2,6,1,1,200
+Skippy,2,5,2,1,200
 Cruiser,4,10,4,2,400
 Carrier,3,2,12,3,400
 Cargo,1,20,10,4,700
